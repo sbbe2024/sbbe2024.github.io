@@ -1,8 +1,7 @@
 ---
 ---
 
-# sbbecongressoDESCRIPTION=An engaging 1-3 sentence description of your lab.'s Website
-
+# I Congresso da Sociedade Brasileira de Biologia Evolutiva
 
 
 {% include section.html %}
@@ -33,8 +32,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 %}
 
 {% capture text %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 {%
   include button.html
