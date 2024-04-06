@@ -1,7 +1,7 @@
 ---
 name: Felipe Torquato
 image: images/photo.jpg
-role: phd
+role: 
 aliases:
   - F. Torquato
   - F Torquato

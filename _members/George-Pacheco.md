@@ -1,7 +1,7 @@
 ---
 name: George Pacheco
 image: images/Pacheco.jpeg
-role: pi
+role: Investigador Pós-doc
 aliases:
   - G. Pacheco
   - G Pacheco
