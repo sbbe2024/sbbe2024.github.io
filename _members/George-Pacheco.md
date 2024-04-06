@@ -1,6 +1,6 @@
 ---
 name: George Pacheco
-image: images/photo.jpg
+image: images/Pacheco.jpeg
 role: pi
 aliases:
   - G. Pacheco
