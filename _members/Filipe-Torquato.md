@@ -1,6 +1,6 @@
 ---
 name: Felipe Torquato
-image: images/Torquato.png
+image: images/Torquato.jpeg
 role: 
 aliases:
   - F. Torquato
