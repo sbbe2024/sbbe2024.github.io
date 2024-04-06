@@ -5,7 +5,7 @@ nav:
   tooltip: Sobre os organizadores.
 ---
 
-# {% include icon.html icon="fa-solid fa-users" %}Team
+# {% include icon.html icon="fa-solid fa-users" %}Organizadores
 
 {% include section.html %}
 
