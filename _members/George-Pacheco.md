@@ -1,13 +1,14 @@
 ---
 name: George Pacheco
 image: images/Pacheco.jpeg
-role: Investigador Pós-doc
+role: postdoc
 aliases:
   - G. Pacheco
   - G Pacheco
 links:
   home-page: https://g-pacheco.github.io/
   orcid: 0000-0002-9367-6813
+  lattes: 8779597063731617
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.

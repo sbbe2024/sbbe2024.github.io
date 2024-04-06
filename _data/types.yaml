@@ -3,27 +3,27 @@
 # team member roles
 
 pi:
-  icon: fa-solid fa-microscope
-  description: Principal Investigator
+  icon:
+  description: Professor
 
 postdoc:
-  icon: fa-solid fa-glasses
-  description: Postdoctoral Researcher
+  icon:
+  description: Pesquisador Pós-doc
 
 phd:
-  icon: fa-solid fa-graduation-cap
-  description: PhD Student
+  icon:
+  description: Doutorando
 
 undergrad:
-  icon: fa-solid fa-user-graduate
+  icon:
   description: Undergraduate Student
 
 programmer:
-  icon: fa-solid fa-code
+  icon:
   description: Programmer
 
 mascot:
-  icon: fa-solid fa-dog
+  icon:
   description: Mascot
 
 # general
@@ -119,6 +119,12 @@ linkedin:
   text: LinkedIn
   tooltip: LinkedIn
   link: https://www.linkedin.com/in/$VALUE
+
+lattes:
+  icon: ai ai-lattes-square
+  text: Lattes
+  tooltip: Lattes
+  link: http://lattes.cnpq.br/$VALUE
 
 # alerts
 
