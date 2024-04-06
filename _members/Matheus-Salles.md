@@ -1,8 +1,8 @@
 ---
-name: Sarah Johnson
+name: Matheus Salles
 image: images/photo.jpg
 description: Lead Programmer
-role: programmer
+role: phd
 links:
   email: sarah.johnson@gmail.com
   twitter: sarahjohnson
