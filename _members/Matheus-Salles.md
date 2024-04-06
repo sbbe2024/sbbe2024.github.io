@@ -2,6 +2,7 @@
 name: Matheus Salles
 image: images/photo.jpg
 description: Lead Programmer
+subdescription: TEST
 role: phd
 links:
   email: sarah.johnson@gmail.com
