@@ -1,6 +1,6 @@
 ---
 name: George Pacheco
-image: images/Pacheco.jpeg
+image: images/Pacheco.png
 role: postdoc
 aliases:
   - G. Pacheco

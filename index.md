@@ -1,9 +1,6 @@
 ---
 ---
 
-# I Congresso da Sociedade Brasileira de Biologia Evolutiva
-
-
 {% include section.html %}
 
 ## Highlights
