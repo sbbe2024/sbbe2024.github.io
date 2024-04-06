@@ -1,7 +1,7 @@
 ---
 name: George Pacheco
 image: images/Pacheco.jpeg
-description: University of Oslo
+affiliation: University of Oslo
 role: postdoc
 aliases:
   - G. Pacheco
