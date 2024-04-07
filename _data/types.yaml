@@ -121,7 +121,7 @@ linkedin:
   link: https://www.linkedin.com/in/$VALUE
 
 lattes:
-  icon: ai ai-google-scholar-square
+  icon: ai ai-lattes
   text: Lattes
   tooltip: Lattes
   link: http://lattes.cnpq.br/$VALUE
