@@ -124,7 +124,7 @@ lattes:
   icon: ai ai-lattes
   text: Lattes
   tooltip: Lattes
-  link: http://lattes.cnpq.br/$VALUE
+  link: $VALUE
 
 # alerts
 

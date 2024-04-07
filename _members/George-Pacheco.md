@@ -9,7 +9,7 @@ aliases:
 links:
   home-page: https://g-pacheco.github.io/
   orcid: 0000-0002-9367-6813
-  lattes: 8779597063731617
+  lattes: http://lattes.cnpq.br/8779597063731617
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
