@@ -42,6 +42,10 @@
   display: none;
 }
 
+.portrait[data-style=tiny] .portrait-affiliation {
+  display: none;
+}
+
 .portrait-text {
   display: flex;
   flex-direction: column;
@@ -67,7 +71,27 @@
   transform: translate(14%, 14%);
 }
 
+.portrait-affiliation .icon {
+  position: absolute;
+  left: 0;
+  top: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: calc(20px + 10%);
+  aspect-ratio: 1/1;
+  border-radius: 999px;
+  background: var(--background);
+  box-shadow: var(--shadow);
+  transform: translate(14%, 14%);
+}
+
 .portrait[data-style=small] .portrait-role .icon {
+  left: -2px;
+  top: -2px;
+}
+
+.portrait[data-style=small] .portrait-affiliation .icon {
   left: -2px;
   top: -2px;
 }
