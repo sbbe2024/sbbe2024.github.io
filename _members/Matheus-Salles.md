@@ -1,9 +1,8 @@
 ---
 name: Matheus Salles
 image: images/photo.jpg
-description: Lead Programmer
-subdescription: TEST
-role: phd
+role: Doutorando
+description: Universidade Federal do Paraná
 links:
   email: sarah.johnson@gmail.com
   twitter: sarahjohnson
