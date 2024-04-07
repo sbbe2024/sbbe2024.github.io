@@ -24,7 +24,7 @@
       {% include fallback.html %}
     >
 
-    {% if member.name or member.role or member.description %}
+    {% if member.name or member.role or member.description or member.affiliation %}
       <span class="portrait-text">
         {% if member.name %}
           <span class="portrait-name">
