@@ -32,6 +32,12 @@
           </span>
         {% endif %}
 
+        {% if member.role or member.description %}
+          <span class="portrait-role">
+            {% assign type = site.data.types[member.role] %}
+            {% include icon.html icon=type.icon %}
+          </span>
+        {% endif %}
       </span>
     {% endif %}
   </a>
