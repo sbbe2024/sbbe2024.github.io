@@ -1,7 +1,7 @@
 ---
 name: Matheus Salles
 image: images/photo.jpg
-role: pdf
+description: Doutorando
 affiliation: UFPR
 links:
   email: sarah.johnson@gmail.com

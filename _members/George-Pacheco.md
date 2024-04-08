@@ -1,8 +1,8 @@
 ---
 name: George Pacheco
 image: images/Pacheco.jpeg
-role: Pesquisador Pós-doc
-description: University of Oslo
+description: Pesquisador Pós-doc
+affiliation: University of Oslo
 aliases:
   - G. Pacheco
   - G Pacheco
