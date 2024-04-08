@@ -29,9 +29,6 @@
         {% if member.name %}
           <span class="portrait-name">
             {{ member.name }}
-          {% if member.affiliation %}
-            <span>{{ member.affiliation }}</span>
-          {% endif %}
           </span>
         {% endif %}
 
@@ -40,6 +37,9 @@
             {% assign type = site.data.types[member.role] %}
             {% include icon.html icon=type.icon %}
             <span>{{ member.description | default: type.description }}</span>
+        {% if member.affiliation %}
+          <span>{{ member.affiliation }}</span>
+        {% endif %}
           </span>
         {% endif %}
       </span>
