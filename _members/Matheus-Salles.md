@@ -2,7 +2,7 @@
 name: Matheus Salles
 image: images/photo.jpg
 description: Doutorando
-affiliation: Universidade Federal do Paraná
+affiliation: UFPR
 links:
   email: sarah.johnson@gmail.com
   twitter: sarahjohnson

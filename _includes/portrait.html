@@ -37,7 +37,7 @@
             {% assign type = site.data.types[member.role] %}
             {% include icon.html icon=type.icon %}
             <span>{{ member.description | default: type.description }}</span>
-        </p>
+            <br> <!-- Add a line break here -->
         {% if member.affiliation %}
           <span>{{ member.affiliation }}</span>
         {% endif %}
