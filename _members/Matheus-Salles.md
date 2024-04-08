@@ -1,8 +1,9 @@
 ---
 name: Matheus Salles
 image: images/photo.jpg
-role: Doutorando
-description: UFPR
+role: 
+description: Doutorando
+affiliation: UFPR
 links:
   email: sarah.johnson@gmail.com
   twitter: sarahjohnson
