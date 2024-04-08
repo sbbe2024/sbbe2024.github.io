@@ -26,10 +26,12 @@
 
     {% if member.name or member.role or member.description or member.affiliation %}
       <span class="portrait-text">
-        {% if member.name or member.affiliation %}
+        {% if member.name %}
           <span class="portrait-name">
             {{ member.name }}
-            {{ member.affiliation }}
+          {% if member.affiliation %}
+            <span>{{ member.affiliation }}</span>
+          {% endif %}
           </span>
         {% endif %}
 
