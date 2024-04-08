@@ -1,8 +1,8 @@
 ---
-title: Organizadores
+title: Comissão Organizadora
 nav:
   order: 3
-  tooltip: Sobre os organizadores.
+  tooltip: Sobre a comissão organizadora do I Congresso da SBBE.
 ---
 
 # {% include icon.html icon="fa-solid fa-users" %}Organizadores
