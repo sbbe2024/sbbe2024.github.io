@@ -33,15 +33,15 @@ link:
   text: Link
   tooltip: Link
 
-website:
-  icon: fa-solid fa-globe
-  text: Website
-  tooltip: Website
-
 external:
   icon: fa-solid fa-up-right-from-square
   text: External Link
   tooltip: External link
+
+labwebpage:
+  icon: fa-solid fa-vial
+  text: Página do Lab
+  tooltip: Página do Lab
 
 home-page:
   icon: fa-solid fa-house-user

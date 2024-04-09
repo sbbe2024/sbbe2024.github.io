@@ -1,11 +1,11 @@
 ---
 name: Matheus Salles
-image: images/photo.jpg
+image: images/members/Salles.jpeg
 description: Doutorando
-affiliation: UFPR
+affiliation: Programa de Pós-graduação em Zoologia (UFPR)
 links:
-  email: sarah.johnson@gmail.com
-  twitter: sarahjohnson
+  lattes:  http://lattes.cnpq.br/7658919565090053
+  email:  matheus.salles@ufpr.br
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Doutorando em Zoologia pela Universidade Federal do Paraná (UFPR), com projeto voltado ao estudo de métodos de delimitação de espécies, aprendizado de máquina e filogeografia de lagartos do grupo Tropidurus. Graduado (Bacharelado e Licenciatura) em Ciências Biológicas pela UFPR e Mestre em Zoologia pela mesma instituição

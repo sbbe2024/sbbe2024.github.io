@@ -1,6 +1,6 @@
 ---
 name: Felipe Torquato
-image: images/Torquato.jpeg
+image: images/members/Torquato.jpeg
 role: 
 aliases:
   - F. Torquato
@@ -8,5 +8,3 @@ aliases:
 group: alum
 links:
 ---
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
