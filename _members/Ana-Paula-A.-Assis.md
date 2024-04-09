@@ -1,6 +1,6 @@
 ---
 name: Ana Paula A. Assis
-image: images/members/Assis.jpeg
+image: images/members/Assis_BW.jpeg
 description: Professora Assistente
 affiliation: Departamento de Genética e Biologia Evolutiva (USP)
 links:

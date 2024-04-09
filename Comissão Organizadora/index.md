@@ -5,7 +5,7 @@ nav:
   tooltip: Sobre a comissão organizadora do I Congresso da SBBE.
 ---
 
-# {% include icon.html icon="fa-solid fa-users" %}Organizadores
+# {% include icon.html icon="fa-solid fa-users" %}Comissão Organizadora
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
 incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis

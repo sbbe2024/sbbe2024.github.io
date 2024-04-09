@@ -1,6 +1,6 @@
 ---
 name: George Pacheco
-image: images/members/Pacheco.jpeg
+image: images/members/Pacheco_BW.jpeg
 description: Pesquisador Pós-doc
 affiliation: University of Oslo
 links:
