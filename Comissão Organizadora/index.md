@@ -5,11 +5,9 @@ nav:
   tooltip: Sobre a comissão organizadora do I Congresso da SBBE.
 ---
 
-# {% include icon.html icon="fa-solid fa-users" %}Comissão Organizadora
+# {% include icon.html icon="fa-solid fa-people-group" %}Comissão Organizadora
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Vendo que o Brasil é infelizmente um país com fortes disparidades sociais e econômicas entre as cinco regiões que o constituem, a nossa comissão é composta por membors provindos de diferentes regiões brasileiras. Outro tipo de _diversidade_ imbuída em nossa comissão refere-se a presença de membros em diferentes estágios acadêmicos.
 
 {% include section.html %}
 
