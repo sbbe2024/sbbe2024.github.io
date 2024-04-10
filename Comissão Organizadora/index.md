@@ -17,7 +17,7 @@ Vendo que o Brasil é infelizmente um país com fortes disparidades sociais e ec
 
 ## Colaboradores
 
-These are past lab members who have moved on in their careers.
+A nossa comissão é amplamente auxiliada por um grupo _diverso_ de pesquisadores brasileiros atuantes em vários ramos da Biologia Evolutiva.
 
 {% include list.html data="members" component="portrait" filters="group: collaborator" %}
 
