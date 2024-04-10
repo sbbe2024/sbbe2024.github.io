@@ -11,7 +11,7 @@ Vendo que o Brasil é infelizmente um país com fortes disparidades sociais e ec
 
 {% include section.html %}
 
-{% include list.html data="members" component="portrait" filters="organizador" %}
+{% include list.html data="members" component="portrait" filters="group: organizador" %}
 
 {% include section.html %}
 
