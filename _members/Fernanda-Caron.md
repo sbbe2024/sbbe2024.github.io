@@ -1,7 +1,7 @@
 ---
 name: Fernanda Caron
 image: images/members/Caron_BW.jpeg
-description: Doutorando
+description: Doutoranda
 affiliation: Programa de Pós-Graduação em Ecologia e Conservação (UFPR)
 links:
   lattes: http://lattes.cnpq.br/4760176543361281

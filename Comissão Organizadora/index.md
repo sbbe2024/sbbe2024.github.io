@@ -16,6 +16,12 @@ Vendo que o Brasil é infelizmente um país com fortes disparidades sociais e ec
 
 {% include section.html %}
 
+## Colaboradores
+
+These are past lab members who have moved on in their careers.
+
+{% include list.html data="members" component="portrait" filters="group: collaborator" %}
+
 {% capture content %}
 
 {% endcapture %}
