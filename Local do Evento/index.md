@@ -5,7 +5,7 @@ nav:
   tooltip: Sobre o local do I Congresso da SBBE.
 ---
 
-# {% include icon.html icon="fa-regular fa-location-dot" %}Local do Evento
+# {% include icon.html icon="fa-solid fa-location-dot" %}Local do Evento
 
 O I Congresso da Sociedade Brasileira de Biologia Evolutiva ocorrerá no campus da Universidade Federal do Paraná (UFPR) na cidade de Curitiba.   
 
@@ -24,7 +24,7 @@ O I Congresso da Sociedade Brasileira de Biologia Evolutiva ocorrerá no campus 
 {%
   include button.html
   type="address"
-  tooltip="Our location on Google Maps for easy navigation"
+  tooltip="O endereço do local do evento no Google Maps."
   link="https://www.google.com/maps"
 %}
 
