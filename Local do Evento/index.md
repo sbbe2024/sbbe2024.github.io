@@ -34,8 +34,8 @@ O I Congresso da Sociedade Brasileira de Biologia Evolutiva ocorrerá no campus 
 
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
+  image="images/GralhaAzul.jpg"
+  caption="Gralha Azul"
 %}
 
 {% endcapture %}
@@ -44,8 +44,8 @@ O I Congresso da Sociedade Brasileira de Biologia Evolutiva ocorrerá no campus 
 
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
+  image="images/Bissoli.jpg"
+  caption="Auditório Maurício Bissoli"
 %}
 
 {% endcapture %}
