@@ -2,7 +2,7 @@
 name: Mariana M. Vasconcellos
 image: images/members/Vasconcellos_BW.jpeg
 description: Pesquisadora Pós-doc
-university: Universidade de São Paulo
+university: USP
 department: Departamento de Zoologia
 group: organizador
 links:
