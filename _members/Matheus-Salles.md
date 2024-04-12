@@ -2,7 +2,8 @@
 name: Matheus Salles
 image: images/members/Salles.jpeg
 description: Doutorando
-affiliation: Programa de Pós-graduação em Zoologia (UFPR)
+department: Programa de Pós-graduação em Zoologia
+university: UFPR
 group: organizador
 links:
   lattes:  http://lattes.cnpq.br/7658919565090053

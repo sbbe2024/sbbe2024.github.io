@@ -2,7 +2,8 @@
 name: Waldir Miron
 image: images/members/Miron_BW.jpeg
 description: Pesquisador Pós-doc
-affiliation: University of Oklahoma
+department: Department of Biology
+university: University of Oklahoma
 group: collaborator
 links:
   lattes: http://lattes.cnpq.br/5643358622376992

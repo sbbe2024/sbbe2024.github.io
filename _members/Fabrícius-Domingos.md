@@ -2,7 +2,8 @@
 name: Fabrícius Domingos
 image: images/members/Domingos_BW.jpeg
 description: Professor Adjunto
-affiliation: Departamento de Zoologia (UFPR)
+department: Departamento de Zoologia
+university: UFPR
 group: organizador
 links:
   lattes: http://lattes.cnpq.br/3355995388953032
