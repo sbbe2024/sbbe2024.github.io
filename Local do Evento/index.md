@@ -11,18 +11,6 @@ O I Congresso da Sociedade Brasileira de Biologia Evolutiva ocorrerá no campus 
 
 {%
   include button.html
-  type="email"
-  text="jane@smith.com"
-  link="jane@smith.com"
-%}
-{%
-  include button.html
-  type="phone"
-  text="(555) 867-5309"
-  link="+1-555-867-5309"
-%}
-{%
-  include button.html
   type="address"
   tooltip="Endereço do local do SBBE2024 no Google Maps."
   link="https://maps.app.goo.gl/vfkBnX4yWVTmu1i79"

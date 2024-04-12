@@ -22,4 +22,9 @@
       {{ include.caption | markdownify | remove: "<p>" | remove: "</p>" }}
     </figcaption>
   {% endif %}
+  {% if include.subcaption %}
+  <figcaption class="figure-subcaption">
+    {{ include.subcaption | markdownify | remove: "<p>" | remove: "</p>" }}
+  </figcaption>
+  {% endif %} 
 </figure>
