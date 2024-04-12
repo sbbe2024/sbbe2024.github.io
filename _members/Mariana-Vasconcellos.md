@@ -3,6 +3,7 @@ name: Mariana M. Vasconcellos
 image: images/members/Vasconcellos_BW.jpeg
 description: Pesquisadora Pós-doc
 university: Universidade de São Paulo
+department: Departamento de Zoologia
 group: organizador
 links:
   lattes: http://lattes.cnpq.br/1881762718218903

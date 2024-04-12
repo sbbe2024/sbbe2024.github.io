@@ -22,9 +22,9 @@ O I Congresso da Sociedade Brasileira de Biologia Evolutiva ocorrerá no campus 
 
 {%
   include figure.html
-  image="images/GralhaAzul.jpg"
+  image="images/GralhaAzul_Photo.png"
   caption="Auditório Gralha Azul"
-  subcaption="TEST"
+  subcaption="Capacidade: 280 assentos"
 %}
 
 {% endcapture %}
@@ -33,8 +33,9 @@ O I Congresso da Sociedade Brasileira de Biologia Evolutiva ocorrerá no campus 
 
 {%
   include figure.html
-  image="images/Bissoli.jpg"
+  image="images/Bissoli_Photo.png"
   caption="Auditório Maurício Bissoli"
+  subcaption="Capacidade: 112 assentos"
 %}
 
 {% endcapture %}
