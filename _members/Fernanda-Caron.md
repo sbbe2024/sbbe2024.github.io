@@ -6,7 +6,7 @@ affiliation: Programa de Pós-Graduação em Ecologia e Conservação (UFPR)
 group: organizador
 links:
   lattes: http://lattes.cnpq.br/4760176543361281
-  home-page: fernandacaron.github.io
+  home-page: https://fernandacaron.github.io/
   twitter: fercaron
   email: fernandacaron@ufpr.br
 ---
