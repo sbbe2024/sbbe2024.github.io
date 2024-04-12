@@ -1,8 +1,8 @@
 ---
 name: Mariana M. Vasconcellos
 image: images/members/Vasconcellos_BW.jpeg
-description: Pesquisador Pós-doc
-affiliation: Universidade de São Paulo
+description: Pesquisadora Pós-doc
+university: Universidade de São Paulo
 group: organizador
 links:
   lattes: http://lattes.cnpq.br/1881762718218903

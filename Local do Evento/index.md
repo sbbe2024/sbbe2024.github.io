@@ -35,7 +35,8 @@ O I Congresso da Sociedade Brasileira de Biologia Evolutiva ocorrerá no campus 
 {%
   include figure.html
   image="images/GralhaAzul.jpg"
-  caption="Gralha Azul"
+  caption="Auditório Gralha Azul"
+  subcaption="TEST"
 %}
 
 {% endcapture %}
