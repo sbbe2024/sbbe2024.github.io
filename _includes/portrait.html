@@ -38,8 +38,11 @@
             {% include icon.html icon=type.icon %}
             <span>{{ member.description | default: type.description }}</span>
           </span>
-        {% if member.affiliation %}
-         <span>{{ member.affiliation }}</span>
+        {% if member.department %}
+         <span>{{ member.department }}</span>
+        {% endif %}
+        {% if member.university %}
+        <span>{{ member.university }}</span>
         {% endif %}
         {% endif %}
       </span>

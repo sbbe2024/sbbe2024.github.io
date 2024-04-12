@@ -2,7 +2,8 @@
 name: George Pacheco
 image: images/members/Pacheco_BW.jpeg
 description: Pesquisador Pós-doc
-affiliation: University of Oslo
+department: Centre for Ecological and Evolutionary Synthesis
+university: University of Oslo
 group: organizador
 links:
   lattes: http://lattes.cnpq.br/8779597063731617
