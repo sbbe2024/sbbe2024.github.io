@@ -1,6 +1,6 @@
 ---
 name: Adrian Garda
-image: images/members/Garda_BW.jpeg
+image: images/members/Garda_BW.png
 description: Professor Associado
 department: Departamento de Botânica e Zoologia
 university: UFRN
