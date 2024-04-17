@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-location-dot" %}Local do Evento
 
-O I Congresso da Sociedade Brasileira de Biologia Evolutiva ocorrerá no campus Jardim Botânico da Universidade Federal do Paraná (UFPR), a mais antiga e uma das mais tradicionais universidades do Brasil, com uma rica história acadêmica e uma reputação de excelência em pesquisa.
+O **I Congresso da Sociedade Brasileira de Biologia Evolutiva** ocorrerá no campus Jardim Botânico da Universidade Federal do Paraná (UFPR), a mais antiga e uma das mais tradicionais universidades do Brasil, com uma rica história acadêmica e uma reputação de excelência em pesquisa.
 
 O campus Jardim Botânico proporciona aos visitantes um ambiente tranquilo e inspirador, ideal para a troca de conhecimento e ideias. A programação será concentrada nos Auditórios Gralha Azul e Maurício Bissoli, ambos localizados no Setor de Ciências da Saúde da UFPR. Além disso, o campus está próximo a importantes pontos turísticos de Curitiba, oferecendo aos participantes do evento a oportunidade de explorar a cultura e as belezas da cidade.   
 
@@ -17,8 +17,6 @@ O campus Jardim Botânico proporciona aos visitantes um ambiente tranquilo e ins
   tooltip="Endereço do local do SBBE2024 no Google Maps."
   link="https://maps.app.goo.gl/vfkBnX4yWVTmu1i79"
 %}
-
-{% include section.html %}
 
 {% capture col1 %}
 
@@ -43,6 +41,5 @@ O campus Jardim Botânico proporciona aos visitantes um ambiente tranquilo e ins
 {% endcapture %}
 
 {% include section.html dark=true %}
-
 
 {% include cols.html col1=col1 col2=col2 col3=col3 %}
