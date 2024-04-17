@@ -3,8 +3,8 @@ header {
   justify-content: space-between;
   align-items: center;
   flex-wrap: wrap;
-  gap: 0px;
-  padding: 35px;
+  gap: 20px;
+  padding: 20px;
   box-shadow: var(--shadow);
   position: sticky !important;
   top: 0;
@@ -12,7 +12,6 @@ header {
 }
 
 header a {
-  margin-top: 20px;
   color: var(--text);
   text-decoration: none;
 }
@@ -51,7 +50,7 @@ header a {
 }
 
 .subtitle {
-  opacity: 0.65;
+  opacity: 1;
   font-weight: var(--thin);
 }
 
@@ -87,15 +86,13 @@ nav {
   justify-content: center;
   align-items: center;
   flex-wrap: wrap;
-  padding-bottom: 0px;
-  padding-top: 0px;
   gap: 10px;
   font-family: var(--heading);
   text-transform: uppercase;
 }
 
 nav > a {
-  padding: 0px;
+  padding: 5px;
 }
 
 nav > a:hover {
@@ -123,7 +120,7 @@ header[data-big] {
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  padding: 140px 20px;
+  padding: 100px 20px;
   top: unset;
 }
 header[data-big] .home {
