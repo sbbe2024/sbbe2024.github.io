@@ -1,7 +1,7 @@
 ---
 title: Apoio
 nav:
-  order: 6
+  order: 3
   tooltip: Sobre os apoiadores do I Congresso da SBBE.
 ---
 
