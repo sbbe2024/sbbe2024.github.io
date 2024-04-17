@@ -1,8 +1,8 @@
 # site properties and page defaults
 title:
-subtitle: 
+subtitle: SBBE 2024
 description: 
-header: images/background_blue.png
+header: images/background_blue.svg
 footer: images/footer.png
 proofer: false
 

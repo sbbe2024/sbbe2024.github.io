@@ -8,7 +8,11 @@
 
 <header
   class="background"
-  style="--image: url('{{ image }}')"
+  {% if page.url == "/" %}
+    style="--image: url('{{ image }}')"
+  {% else %}
+    style="background-color: #293b63;"
+  {% endif %}
   {% if dark == true or dark == false %}
     data-dark="{{ dark }}"
   {% endif %}
@@ -18,29 +22,29 @@
 >
 
 <a href="{{ "/" | relative_url }}" class="home">
-  {% if site.logo-text != false %}
-    <span class="title-text" data-tooltip="Home">
-      {% if site.title and site.show-title != false %}
-        <span class="title">{{ site.title }}</span>
-      {% endif %}
-      {% if site.subtitle and site.show-subtitle != false %}
-        <span class="subtitle">{{ site.subtitle }}</span>
-      {% endif %}
-    </span>
-  {% endif %}
-</a>
-  <a href="{{ "/" | relative_url }}" class="home">
+  {% if page.url == "/" %}
     {% if site.logo-text != false %}
       <span class="title-text" data-tooltip="Home">
         {% if site.title and site.show-title != false %}
           <span class="title">{{ site.title }}</span>
         {% endif %}
-        {% if site.subtitle and site.show-subtitle != false %}
-          <span class="subtitle">{{ site.subtitle }}</span>
-        {% endif %}
       </span>
     {% endif %}
-  </a>
+  {% else %}
+    {% if logo %}
+      <span class="logo">
+        {% if svg %}
+          {{ svg | file_read }}
+        {% else %}
+          <img src="{{ logo | relative_url }}" alt="logo">
+        {% endif %}
+      </span>
+      {% if site.subtitle and site.show-subtitle != false %}
+        <span class="subtitle">{{ site.subtitle }}</span>
+      {% endif %}
+    {% endif %}
+  {% endif %}
+</a>
 
   <input class="nav-toggle" type="checkbox" aria-label="show/hide nav">
 
