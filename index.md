@@ -3,8 +3,6 @@
 
 {% include section.html %}
 
-# 20 - 22 Novembro | UFPR | Curitiba
-
 ## Highlights
 
 {% capture text %}
