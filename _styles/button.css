@@ -30,7 +30,7 @@ button {
 
 .button:hover {
   background: var(--text);
-  color: var(--background);
+  color: #ffffff;
 }
 
 .button[data-style=bare] {
@@ -39,7 +39,7 @@ button {
   color: var(--primary);
 }
 .button[data-style=bare]:hover {
-  color: var(--text);
+  color: #7FAEBB;
 }
 
 .button[data-flip] {

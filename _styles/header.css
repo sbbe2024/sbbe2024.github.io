@@ -1,26 +1,18 @@
-$logo-big: 150px;
-$logo: 80px;
-$big-padding: 100px;
-$collapse: 700px;
-$sticky: true;
-
 header {
   display: flex;
   justify-content: space-between;
   align-items: center;
   flex-wrap: wrap;
-  gap: 20px;
-  padding: 20px;
+  gap: 0px;
+  padding: 35px;
   box-shadow: var(--shadow);
-
-  @if $sticky {
-    position: sticky !important;
-    top: 0;
-    z-index: 10 !important;
-  }
+  position: sticky !important;
+  top: 0;
+  z-index: 10 !important;
 }
 
 header a {
+  margin-top: 20px;
   color: var(--text);
   text-decoration: none;
 }
@@ -36,7 +28,7 @@ header a {
 }
 
 .logo {
-  height: $logo;
+  height: 40px;
 }
 
 .logo > * {
@@ -95,37 +87,35 @@ nav {
   justify-content: center;
   align-items: center;
   flex-wrap: wrap;
+  padding-bottom: 0px;
+  padding-top: 0px;
   gap: 10px;
-  font-size: 1.1rem;
   font-family: var(--heading);
   text-transform: uppercase;
 }
 
 nav > a {
-  padding: 5px;
+  padding: 0px;
 }
 
 nav > a:hover {
   color: var(--primary);
 }
 
-header:not([data-big]) {
-  @media (max-width: $collapse) {
+@media (max-width: 700px) {
+  header:not([data-big]) {
     justify-content: flex-end;
-
-    .nav-toggle {
-      display: flex;
-    }
-
-    .nav-toggle:not(:checked) + nav {
-      display: none;
-    }
-
-    nav {
-      align-items: flex-end;
-      flex-direction: column;
-      width: 100%;
-    }
+  }
+  header:not([data-big]) .nav-toggle {
+    display: flex;
+  }
+  header:not([data-big]) .nav-toggle:not(:checked) + nav {
+    display: none;
+  }
+  header:not([data-big]) nav {
+    align-items: flex-end;
+    flex-direction: column;
+    width: 100%;
   }
 }
 
@@ -133,32 +123,26 @@ header[data-big] {
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  padding: $big-padding 20px;
-
-  @if $sticky {
-    top: unset;
-  }
-
-  .home {
-    flex-direction: column;
-    flex-grow: 0;
-  }
-
-  .logo {
-    height: $logo-big;
-  }
-
-  .title-text {
-    flex-direction: column;
-    align-items: center;
-    text-align: center;
-  }
-
-  .title {
-    font-size: var(--xxl);
-  }
-
-  .subtitle {
-    font-size: var(--large);
-  }
+  padding: 140px 20px;
+  top: unset;
 }
+header[data-big] .home {
+  flex-direction: column;
+  flex-grow: 0;
+}
+header[data-big] .logo {
+  height: 80px;
+}
+header[data-big] .title-text {
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+header[data-big] .title {
+  font-size: var(--xxl);
+}
+header[data-big] .subtitle {
+  font-size: var(--large);
+}
+
+/*# sourceMappingURL=header.css.map */

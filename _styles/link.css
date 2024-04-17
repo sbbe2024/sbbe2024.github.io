@@ -5,7 +5,7 @@ a {
 }
 
 a:hover {
-  color: var(--text);
+  color: #7FAEBB;
 }
 
 a:not([href]) {
