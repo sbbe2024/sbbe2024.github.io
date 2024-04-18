@@ -1,7 +1,7 @@
 ---
 title: Contato
 nav:
-  order: 4
+  order: 5
   tooltip: Entre em contato conosco.
 ---
 

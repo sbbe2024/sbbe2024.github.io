@@ -1,15 +1,15 @@
 ---
-title: Apoio
+title: Palestras Magnas
 nav:
-  order: 4
-  tooltip: Sobre os apoiadores do I Congresso da SBBE.
+  order: 3
+  tooltip: Palestrantes convidados.
 ---
 
-# {% include icon.html icon="fa-solid fa-money-check-dollar" %}Apoio
+# {% include icon.html icon="fa-solid fa-money-check-dollar" %}Palestras Magnas
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut a dui suscipit, dignissim quam in, egestas turpis. Praesent at sapien tellus. Fusce mollis porta cursus. Quisque libero tortor, commodo sed sollicitudin in, consequat eu sem. Ut elementum porta purus eu tincidunt. Nulla hendrerit diam sit amet lectus feugiat ultricies. Etiam placerat metus vel nunc varius eleifend. Curabitur luctus turpis id ipsum molestie rutrum quis sit amet mauris. Integer imperdiet augue in sodales maximus.
 
-## First sponsor.
+## Primeiro palestrante.
 {% capture text %}
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut a dui suscipit, dignissim quam in, egestas turpis. Praesent at sapien tellus. Fusce mollis porta cursus. Quisque libero tortor, commodo sed sollicitudin in, consequat eu sem. Ut elementum porta purus eu tincidunt.
 
@@ -23,11 +23,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut a dui suscipit, dign
 
 {%
   include feature.html
-  image="images/Sponsors/SMBE.png"
+  image="images/Sponsors/optimizing_stim.png"
   text=text
 %}
 
-## Second sponsor.
+## Segundo palestrante.
 {% capture text %}
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut a dui suscipit, dignissim quam in, egestas turpis. Praesent at sapien tellus. Fusce mollis porta cursus. Quisque libero tortor, commodo sed sollicitudin in, consequat eu sem. Ut elementum porta purus eu tincidunt.
 
@@ -41,12 +41,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut a dui suscipit, dign
 
 {%
   include feature.html
-  image="images/Sponsors/UFPR.png"
+  image="images/Sponsors/optimizing_stim.png"
   flip=true
   text=text
 %}
 
-## Third sponsor.
+## Terceiro palestrante.
 {% capture text %}
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut a dui suscipit, dignissim quam in, egestas turpis. Praesent at sapien tellus. Fusce mollis porta cursus. Quisque libero tortor, commodo sed sollicitudin in, consequat eu sem. Ut elementum porta purus eu tincidunt.
 
