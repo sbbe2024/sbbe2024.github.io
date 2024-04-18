@@ -1,5 +1,5 @@
 ---
-title: Local do Evento
+title: Local
 nav:
   order: 2
   tooltip: Sobre o local do I Congresso da SBBE.

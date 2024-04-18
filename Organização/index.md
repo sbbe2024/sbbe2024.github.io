@@ -1,5 +1,5 @@
 ---
-title: Comissão Organizadora
+title: Organização
 nav:
   order: 1
   tooltip: Sobre a comissão organizadora do I Congresso da SBBE.
