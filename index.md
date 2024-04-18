@@ -1,7 +1,8 @@
 ---
 ---
 
-# 20 - 22 Novembro | UFPR | Curitiba
+# 20 - 22 Novembro
+# UFPR — Curitiba
 
 {% include section.html %}
 
