@@ -1,5 +1,5 @@
 ---
-title: Palestras Magnas
+title: Magnas
 nav:
   order: 3
   tooltip: Palestrantes convidados.

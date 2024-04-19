@@ -1,7 +1,7 @@
 ---
 title: Organização
 nav:
-  order: 1
+  order: 2
   tooltip: Sobre a comissão organizadora do I Congresso da SBBE.
 ---
 
