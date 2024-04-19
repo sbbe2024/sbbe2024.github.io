@@ -33,7 +33,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut a dui suscipit, dign
 
 {%
   include button.html
-  flip=true
+  flip=false
   style="bare"
 %}
 
@@ -42,7 +42,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut a dui suscipit, dign
 {%
   include feature.html
   image="images/Sponsors/UFPR.png"
-  flip=true
   text=text
 %}
 
@@ -52,7 +51,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut a dui suscipit, dign
 
 {%
   include button.html
-  flip=true
   style="bare"
 %}
 
