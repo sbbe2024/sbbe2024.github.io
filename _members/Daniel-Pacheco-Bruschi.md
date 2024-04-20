@@ -1,6 +1,6 @@
 ---
 name: Daniel Pacheco Bruschi
-image: images/members/PachecoBruschi.jpeg
+image: images/members/Bruschi_BW.jpeg
 description: Professor
 university: UFPR
 group: collaborator

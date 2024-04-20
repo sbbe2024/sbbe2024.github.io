@@ -7,11 +7,9 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-money-check-dollar" %}Apoio
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut a dui suscipit, dignissim quam in, egestas turpis. Praesent at sapien tellus. Fusce mollis porta cursus. Quisque libero tortor, commodo sed sollicitudin in, consequat eu sem. Ut elementum porta purus eu tincidunt. Nulla hendrerit diam sit amet lectus feugiat ultricies. Etiam placerat metus vel nunc varius eleifend. Curabitur luctus turpis id ipsum molestie rutrum quis sit amet mauris. Integer imperdiet augue in sodales maximus.
-
-## First sponsor.
+## Society for Molecular Biology and Evolution
 {% capture text %}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut a dui suscipit, dignissim quam in, egestas turpis. Praesent at sapien tellus. Fusce mollis porta cursus. Quisque libero tortor, commodo sed sollicitudin in, consequat eu sem. Ut elementum porta purus eu tincidunt.
+O nosso congresso será um <a href="https://www.smbe.org/smbe/MEETINGS/SatelliteInterdisciplinaryRegionalMeetings.aspx"><b>SMBE Interdisciplinary and Regional Meeting</b></a>, contando assim com o apoio oficial da <a href="https://www.smbe.org/smbe"><b>Society for Molecular Biology and Evolution</b></a> (SMBE). Esta renomada sociedade internacional promove projetos interdisciplinares e expande suas atividades globalmente ao patrocinar eventos feitos em conjunto com outras sociedades, como será do caso do <b>SBBE 2024</b>, incluindo simpósios ou palestras plenárias sobre biologia molecular e evolução. Para saber mais detalhes sobre este e outros projetos, visite a página da <a href="https://www.smbe.org/smbe"><b>SMBE</b></a>.
 
 {%
   include button.html
@@ -27,9 +25,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut a dui suscipit, dign
   text=text
 %}
 
-## Second sponsor.
+## Universidade Federal do Paraná
 {% capture text %}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut a dui suscipit, dignissim quam in, egestas turpis. Praesent at sapien tellus. Fusce mollis porta cursus. Quisque libero tortor, commodo sed sollicitudin in, consequat eu sem. Ut elementum porta purus eu tincidunt.
+O nosso evento também contará com amplo apoio da <a href="https://ufpr.br/"><b><i>Universidade Federal do Paraná</i></b></a> (UFPR), a qual cederá seus espaços e estrutura física para a realização do evento.
 
 {%
   include button.html
@@ -42,22 +40,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut a dui suscipit, dign
 {%
   include feature.html
   image="images/Sponsors/UFPR.png"
-  text=text
-%}
-
-## Third sponsor.
-{% capture text %}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut a dui suscipit, dignissim quam in, egestas turpis. Praesent at sapien tellus. Fusce mollis porta cursus. Quisque libero tortor, commodo sed sollicitudin in, consequat eu sem. Ut elementum porta purus eu tincidunt.
-
-{%
-  include button.html
-  style="bare"
-%}
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/optimizing_stim.png"
   text=text
 %}
