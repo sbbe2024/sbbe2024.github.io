@@ -1,6 +1,6 @@
 ---
 name: Márcia Beltrame
-image: images/members/Beltrame.jpeg
+image: images/members/Beltrame_BW.jpeg
 description: Professora Adjunta
 department: Departamento de Genética
 university: UFRGS
